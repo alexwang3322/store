@@ -1,0 +1,3 @@
+                <a rel="nofollow" id="details_picture" href="https://static.sport-conrad.com/out/pictures///master/product/1/79104007_791_040_07.jpg" class="lightbox mainpic morePics_zoom " data-imagelightbox="lbpicturegallery"><img id="main_pic" src="https://static.sport-conrad.com/out/pictures//generated/product/1/380_340_100/79104007_791_040_07.jpg" alt="Ortovox Zoom+ 3-Antenna  Tracker Beacon " title="Ortovox Zoom+ 3-Antenna  Tracker Beacon "></a>
+                                    <span itemprop="price" class="price"> 169,00 €</span>
+        <meta itemprop="price" content="169.00">
